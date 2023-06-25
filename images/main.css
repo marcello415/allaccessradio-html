@@ -1,0 +1,86 @@
+body {
+  font-family: Verdana, Trebuchet MS, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+}
+
+td {
+  font-family: Verdana, Trebuchet MS, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+}
+
+table.text {
+  font-family: Verdana, Trebuchet MS, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+}
+
+tr.morenews {
+  font-family: Verdana, Trebuchet MS, Arial, Helvetica, sans-serif;
+  font-size: 7.5pt;
+  font-weight: bold;
+  color: #000000;
+}
+
+td.morenews {
+  font-family: Verdana, Trebuchet MS, Arial, Helvetica, sans-serif;
+  font-size: 7.5pt;
+  font-weight: bold;
+  color: #000000;
+}
+
+FONT.heading1 {
+  font-family: Verdana, Trebuchet MS, Arial, Helvetica, sans-serif;
+  color: #990000;
+  font-size: 8pt;
+  font-weight: bold;
+}
+
+body {
+  background-image: url(bg.gif);
+  background-attachment: fixed
+}
+
+A:body:link {
+  color: 663333;
+}
+
+A:body:visited {
+  color: 666666;
+}
+
+A:body:hover {
+  color: 990000;
+}
+
+
+A:morenews:link {
+  color: 663333;
+}
+
+A:morenews:visited {
+  color: 666666;
+}
+
+A:morenews:hover {
+  color: 990000;
+}
+
+/*
+     FILE ARCHIVED ON 16:41:12 Feb 09, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:47:47 May 19, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 711.147
+  exclusion.robots: 0.083
+  exclusion.robots.policy: 0.074
+  RedisCDXSource: 0.67
+  esindex: 0.008
+  LoadShardBlock: 692.9 (3)
+  PetaboxLoader3.datanode: 706.918 (4)
+  load_resource: 120.605
+  PetaboxLoader3.resolve: 60.576
+*/
